@@ -1,0 +1,5 @@
+
+Ini adalah isi email dari txt
+jadi isi email bisa di custome dari file txt ini.
+
+Thanks
